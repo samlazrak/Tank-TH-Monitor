@@ -1,3 +1,5 @@
+# Sadly Drogo passed but heres the code in case anyone has a a pet lizzy
+
 # T/H Monitor using SHT10
 
 Temperature and Humidity monitor for my pet lizard Drogo.
